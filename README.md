@@ -1,4 +1,4 @@
-# ColoradoRP · Bot y panel de Discord
+# Colorado Roleplay · Bot y panel de Discord
 
 Panel web para configurar y administrar servidores de Discord.
 
